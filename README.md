@@ -1,1 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/iUr6FluD)
+Full Name:
+-Val Derrick James C. Alamillo
+Degree Program:
+-BS Computer Science
+Live website link:
+-https://github.com/CMSC-100-2S24-25-C3L/exer-04-javascript-basics-part-2-Valentine-real.git
+What are your key takeaways for this exercise:
+-Importing functions is a lot easier than I thought thanks to npm
